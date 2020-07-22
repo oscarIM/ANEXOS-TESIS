@@ -1,12 +1,14 @@
 # Anexo II
 
-En este directorio se encuentran la información suplementaria del capítulo II de esta Tesis
+En este directorio se encuentran la información suplementaria del capítulo II de esta Tesis.
 
-**Primates_FBD.xml**: Archivo de configuración necesario para llevar a cabo el análisis filogenético por medio del modelo *Fossilized Birth-Death*
+**Primates_FBD.xml**: Archivo de configuración necesario para llevar a cabo el análisis filogenético por medio del modelo *Fossilized Birth-Death*.
+
 
 ## Leyenda de Tablas
 
-**Tabla S2**. lista con los numeros de accesos de Genbank para los genes utilizados en los análisis filigenéticos. Las columnas con el sufijo *_ET* indican a la secuencias de los genes que fueron incoporadas en este trabajo 
+**Tabla S2**. lista con los numeros de accesos de Genbank para los genes utilizados en los análisis filigenéticos. Las columnas con el sufijo *_ET* indican a la secuencias de los genes que fueron incoporadas en este trabajo. 
+
 
 ## Leyenda de Figuras
 
