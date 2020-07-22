@@ -1,15 +1,16 @@
 **Análisis filogenético**
 
-   Para reducir el espacio muestral de topologías posibles y al mismo tiempo, para evitar la necesidad de tomar decisiones arbitrarias en cuanto a la relación topológica entre taxa fósiles y actuales, se utilizo la información sistemática del grupo propuesta por Morse et al. (2019), restringiendo la ubicación de los fósiles de la forma mas precisa que fue posible. Los fósiles no presentes en dicha propuesta, fueron ubicados según trabajos de grupos particulares dentro de Primates: De este modo, las restricciones topológicas impuestas para los fósiles del Pavorden Platyrrhini (Monos del Nuevo Mundo) fueron tomadas desde el trabajo de Silvestro et al. 2019. Por su parte, las restricciones para los fósiles dentro de la familia Hominidae, fueron tomadas de Parins-Fukuchi et al. 2019, mientras que su relación con el resto dentro de la super familia Hominoidea fue tomada desde Moyà-Solà et al. (2009). Para el Suborden Strepsirrhini, las restricciones topológicas fueron tomadas desde Herrera et al. (2016), Sieffert et al (2003 2005, 2009, 2010, 2018), Ni et al (2016; Particularmente para las familias fósiles Sivadalapidae y Ekgmowechashalidae) y Gunnell et al. (2018). Fósiles no encontrados en estas propuestas particulares, fueron asignados según Fleagle (2013).
+ <div style="text-align: justify">Para reducir el espacio muestral de topologías posibles y al mismo tiempo, para evitar la necesidad de tomar decisiones arbitrarias en cuanto a la relación topológica entre taxa fósiles y actuales, se utilizo la información sistemática del grupo propuesta por Morse et al. (2019), restringiendo la ubicación de los fósiles de la forma mas precisa que fue posible. Los fósiles no presentes en dicha propuesta, fueron ubicados según trabajos de grupos particulares dentro de Primates: De este modo, las restricciones topológicas impuestas para los fósiles del Pavorden Platyrrhini (Monos del Nuevo Mundo) fueron tomadas desde el trabajo de Silvestro et al. 2019 y para su clado hermano, el pavorden Catarrhini (monos del Viejo Mundo) de Tarver et al. (2011) Por su parte, las restricciones para los fósiles dentro de la familia Hominidae, fueron tomadas de Parins-Fukuchi et al. 2019, mientras que su relación con el resto dentro de la super familia Hominoidea fue tomada desde Moyà-Solà et al. (2009). Para el Suborden Strepsirrhini, las restricciones topológicas fueron tomadas desde Herrera et al. (2016), Sieffert et al (2003 2005, 2009, 2010, 2018), Ni et al (2016; Particularmente para las familias fósiles Sivadalapidae y Ekgmowechashalidae) y Gunnell et al. (2018). Fósiles no encontrados en estas propuestas particulares, fueron asignados según Fleagle (2013) </div>
  
  &nbsp;
  
  &nbsp;
   
-**Bibliografía**
+**Bibliografía**-
 
 Fleagle, J. G. 2013. Primate Adaptation and Evolution. 3rd ed. Academic Press, San Diego.
-Gunnell, G. F., D. M. Boyer, A. R. Friscia, S. Heritage, F. K. Manthi, E. R. Miller, H. M. Sallam, N. B. Simmons, N. J. Stevens, and E. R. Seiffert. 2018.        Fossil lemurs from Egypt and Kenya suggest an African origin for Madagascar’s aye-aye. Nat. Commun. 9:1–12. Springer US.
+
+Gunnell, G. F., D. M. Boyer, A. R. Friscia, S. Heritage, F. K. Manthi, E. R. Miller, H. M. Sallam, N. B. Simmons, N. J. Stevens, and E. R. Seiffert. 2018.  Fossil lemurs from Egypt and Kenya suggest an African origin for Madagascar’s aye-aye. Nat. Commun. 9:1–12. Springer US.
 
 Herrera, J. P., and L. M. Dávalos. 2016. Phylogeny and Divergence Times of Lemurs Inferred with Recent and Ancient Fossils in the Tree. Syst. Biol. 65:772–791.
 Morse, P. E., S. G. B. Chester, D. M. Boyer, T. Smith, R. Smith, P. Gigase, and J. I. Bloch. 2019. New fossils, systematics, and biogeography of the oldest known crown primate Teilhardina from the earliest Eocene of Asia, Europe, and North America. J. Hum. Evol. 128:103–131. Elsevier Ltd.
@@ -29,3 +30,5 @@ Seiffert, E. R., E. L. Simons, D. M. Boyer, J. M. G. Perry, T. M. Ryan, and H. M
 Seiffert, E. R., E. L. Simons, T. M. Ryan, and Y. Attia. 2005. Additional remains of Wadilemur elegans, a primitive stem galagid from the late Eocene of Egypt. Proc. Natl. Acad. Sci. USA. 102:11396–11401.
 
 Silvestro, D., M. F. Tejedor, M. L. Serrano-Serrano, O. Loiseau, V. Rossier, J. Rolland, A. Zizka, S. Höhna, A. Antonelli, and N. Salamin. 2019. Early Arrival and Climatically-Linked Geographic Expansion of New World Monkeys from Tiny African Ancestors. Syst. Biol. 68:78–92.
+
+Tarver, J. E., P. C. J. Donoghue, and M. J. Benton. 2011. Is evolutionary history repeatedly rewritten in light of new fossil discoveries? Proc. R. Soc. B Biol. Sci. 278:599–604.
