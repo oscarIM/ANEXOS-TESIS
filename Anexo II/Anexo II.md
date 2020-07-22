@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Anexo II
 En este directorio se encuentran la información suplementaria del capítulo II de esta Tesis
 
@@ -8,3 +9,10 @@ En este directorio se encuentran la información suplementaria del capítulo II 
 ## Leyenda de Figuras
 
 **Figura S2**. 
+=======
+# ajsdasdoasodhoasd
+FBD file
+
+Tabla S2 de genes
+
+>>>>>>> 87e9da903b93d418580f0796e838e217df2a52db
